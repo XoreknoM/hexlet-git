@@ -1,2 +1,1 @@
-# hexlet-git
-Test my first commit
+Hello, Hexlet! How are you?
